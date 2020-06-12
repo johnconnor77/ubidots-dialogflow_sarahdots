@@ -17,7 +17,7 @@ Folder Name|Description
 ---
 
 - Juan Fernando Calle H. [Twitter](https://twitter.com/jfcalleh)|[Github](https://github.com/johnconnor77)
-- Christian Suárez [Twitter](https://twitter.com/MetaAlchemist)|[Github](https://github.com/Thorlak2202)
+- Christian Suárez G. [Twitter](https://twitter.com/MetaAlchemist)|[Github](https://github.com/Thorlak2202)
 - Juan David Restrepo Z. [Twitter](https://twitter.com/jdrestre)|[Github](https://github.com/jdrestre)
 
 ---
