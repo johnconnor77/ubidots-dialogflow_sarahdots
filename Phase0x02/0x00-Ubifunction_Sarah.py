@@ -11,8 +11,6 @@ VARIABLE_LABEL = ""
 TOKEN = ""
 
 
-
-
 def get_var(url=ENDPOINT, device=DEVICE_LABEL, variable=VARIABLE_LABEL,
             token=TOKEN):
     try:
