@@ -1,0 +1,32 @@
+<form name="formName">
+    <group name="rowToken">
+        <group name="fieldToken">
+            <label name="labelToken">Ubidots Token</label>
+            <token name="token" placeholder="Select Token" />
+        </group>
+    </group>
+    <group name="groupName">
+        <group name="groupName">
+            <label name="fixerioToken">FixerIO token</label>
+            <input name="fixerioToken" type="text" />
+        </group>
+    </group>
+    <group name="groupName">
+        <group name="groupName">
+            <label name="deviceLabel">Device label</label>
+            <input name="deviceLabel" type="text" />
+        </group>
+    </group>
+    <group name="rowCurrency">
+        <group name="fieldCurrency">
+            <label name="base">Base currency</label>
+            <select name="base" type="single" search="enabled" placeholder="Select a Base currency (EUR supported only)...">
+                <option value="EUR">Euro</option>
+	        </select>
+        </group>
+        <group name="groupName">
+            <label name="currencies">Currencies to retrieve</label>
+            <input name="currencies" type="text" />
+        </group>
+    </group>
+</form>
