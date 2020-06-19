@@ -11,7 +11,7 @@ ENDPOINT = "industrial.api.ubidots.com"
 TOKEN = "BBFF-o9Wgd3hZokBMNd7d4vyzH9ZfLa5qj8"
 
 
-def get_var(url=ENDPOINT, token=TOKEN):
+def get_all_devices(url=ENDPOINT, token=TOKEN):
 
 
     try:
@@ -44,4 +44,4 @@ def get_var(url=ENDPOINT, token=TOKEN):
         print("[ERROR] Error posting, details: {}".format(e))
 
 if __name__ == "__main__":
-    get_var()
+    get_all_devices()
