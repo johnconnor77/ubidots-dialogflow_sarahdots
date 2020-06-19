@@ -1,12 +1,8 @@
 {
-	"version": "1.0.0",
+	"version": "1.2.0",
 	"runtime": "python:3.7",
-	"environment": {
-		"API_URL": "http://data.fixer.io/api",
-		"UBIDOTS_URL": "https://industrial.api.ubidots.com/api/v2.0/devices",
-		"API_KEY":"3d4032a5163319178c2d0522d6f6ff06"
-	},
-	"plugin_type": "cron",
+	"environment": {},
+	"plugin_type": "web-hook",
   "interval": 1,
   "license_name": "MIT license"
 }
