@@ -1,5 +1,7 @@
 # Phase0x01 Ubidots - Dialogflow_sarahdots
 
+![Logo](https://github.com/jdrestre/pictures-holberton-projects/blob/master/final_project/ReadmeUp.jpeg)
+
 This repository ...
 
 ## Description

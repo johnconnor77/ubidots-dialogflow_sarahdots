@@ -1,8 +1,8 @@
 # Ubidots - Dialogflow_sarahdots
 
-This repository brings test versions about the programming of a chatbot for interaction with Ubidots users, streamlining the forms of consultation within the platform
+![Logo](https://github.com/jdrestre/pictures-holberton-projects/blob/master/final_project/ReadmeUp.jpeg)
 
-![Logo Ubidots](https://github.com/jdrestre/pictures-holberton-projects/blob/master/final_project/logo.png) ![Logo Dialogflow](https://github.com/jdrestre/pictures-holberton-projects/blob/master/final_project/Dialogflow_logo.png)
+This repository brings test versions about the programming of a chatbot for interaction with Ubidots users, streamlining the forms of consultation within the platform
 
 ## Description
 
