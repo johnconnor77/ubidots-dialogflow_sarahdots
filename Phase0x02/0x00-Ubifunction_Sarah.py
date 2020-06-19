@@ -73,7 +73,7 @@ def ubifunc(args):
     TOKEN = "BBFF-o9Wgd3hZokBMNd7d4vyzH9ZfLa5qj8"
     OUT = ""
 
-    text_to_be_analyzed = "Can you tell me the last value of mean percent from River sensor?"
+    text_to_be_analyzed = query
 
     session_client = dialogflow.SessionsClient()
 
