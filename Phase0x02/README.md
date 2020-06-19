@@ -3,8 +3,6 @@
 
 <img align="center" src="https://github.com/jdrestre/pictures-holberton-projects/blob/master/final_project/ReadmeUp.jpeg" width="60%"/>
 
-This repository ...
-
 ## Description
 
 ---
