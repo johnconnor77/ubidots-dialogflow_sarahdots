@@ -7,10 +7,10 @@
 ---
 File Name|Description
 ---|---
-[**`0x00-Ubifunction_Sarah.py/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x02/0x00-Ubifunction_Sarah.py)| 
-[**`0x02-Ubifunction_Sarah.py/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x02/0x02-Ubifunction_Sarah.py)|
-[**`0x03-Ubifunction_Sarah.py/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x02/0x03-Ubifunction_Sarah.py)|
-[**`0x04-Ubifunction_Webhook.py/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x02/0x04-Ubifunction-Webhook.py)|
+[**`0x00-Ubifunction_Sarah.py/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x02/0x00-Ubifunction_Sarah.py)| Ubifunction that initializes session in dialogflow and retrieve last value of variable from certain device
+[**`0x02-Ubifunction_Sarah.py/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x02/0x02-Ubifunction_Sarah.py)| First try of Ubifunction
+[**`0x03-Ubifunction_Sarah.py/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x02/0x03-Ubifunction_Sarah.py)| version 1.3  of ubifunction for plugin
+[**`0x04-Ubifunction_Webhook.py/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x02/0x04-Ubifunction-Webhook.py)| webhook enhancements for integrations on third party plattforms
 
 
 ## Authors
