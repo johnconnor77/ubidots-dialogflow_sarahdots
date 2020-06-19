@@ -11,7 +11,9 @@ This repository brings test versions about the programming of a chatbot for inte
 Folder Name|Description
 ---|---
 [**`Phase0x01/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/tree/master/Phase0x01)| First stage of project where we understand how to deal with dialogflow and ubidots API for developers
-[**`Phase0x02/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/tree/master/Phase0x02)| Second stage of project for developing Ubifunctions, Plugin based on Ubidots architecture and Landing Page for final presentation
+[**`Phase0x02/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/tree/master/Phase0x02)| Second stage of project for developing Ubifunctions
+[**`landing/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/tree/master/landing)| landing page for final presentation of project
+[**`plugin/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/tree/master/plugin)| plugin based on ubidots architecture for Ubinfunctions deployment as web-hook
 
 ## Authors
 
