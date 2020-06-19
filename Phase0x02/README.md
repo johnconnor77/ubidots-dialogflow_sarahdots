@@ -7,7 +7,11 @@
 ---
 File Name|Description
 ---|---
-[**`0x00-Ubifunction_Sarah.py/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x02/0x00-Ubifunction_Sarah.py)|**Description**
+[**`0x00-Ubifunction_Sarah.py/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x02/0x00-Ubifunction_Sarah.py)| 
+[**`0x02-Ubifunction_Sarah.py/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x02/0x02-Ubifunction_Sarah.py)|
+[**`0x03-Ubifunction_Sarah.py/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x02/0x03-Ubifunction_Sarah.py)|
+[**`0x04-Ubifunction_Webhook.py/`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x02/0x04-Ubifunction-Webhook.py)|
+
 
 ## Authors
 
