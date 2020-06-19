@@ -8,7 +8,7 @@
 File Name|Description
 ---|---
 [**`0x00-Sarah_bot.py`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x01/0x00-Sarah_bot.py)| Script that initialize session on dialogflow with google cloud credentials
-[**`0x01-Retrieve_var.py`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x01/0x01-Retrieve_var.py)| Script that makesa GET request to Ubidots
+[**`0x01-Retrieve_var.py`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x01/0x01-Retrieve_var.py)| Script that makes a GET request to Ubidots
 [**`0x02-Retrieve_var.js`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x01/0x02-Retrieve_var.js)| Unfinished Script for making GET request to Ubidots API
 [**`0x03-Sarah_Webhook.py`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x01/0x03-Sarah_Webhook.py)| First approach to webhook for making dialogflow fullfilments 
 [**`0x05-Sarah_bot.py`**](https://github.com/johnconnor77/ubidots-dialogflow_sarahdots/blob/master/Phase0x01/0x05-Sarah_bot.py)| Script with Sarah chatbot with best parsing of intents and entities
