@@ -12,7 +12,9 @@ TOKEN = "BBFF-o9Wgd3hZokBMNd7d4vyzH9ZfLa5qj8"
 
 
 def get_all_devices(url=ENDPOINT, token=TOKEN):
-
+    """
+       Function that retrieves a list of devices from a single user
+    """
 
     try:
         url = "https://{}/api/v2.0/devices/".format(url)
