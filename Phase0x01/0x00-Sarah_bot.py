@@ -23,6 +23,9 @@ TOKEN = ""
 
 def get_var(url=ENDPOINT, device=DEVICE_LABEL, variable=VARIABLE_LABEL,
             token=TOKEN):
+            """
+               Function that makes a GET request to Ubidots API
+            """
     try:
         url = "http://{}/api/v1.6/devices/{}/{}/lv".format(url, device, variable)
 
@@ -46,6 +49,9 @@ def get_var(url=ENDPOINT, device=DEVICE_LABEL, variable=VARIABLE_LABEL,
 
 
 if __name__ == "__main__":
+    """
+            Main program for starting session and make queries to Ubidots platform
+    """
 
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'sarahdots-gtmiej-c64dd83054be.json'
 
