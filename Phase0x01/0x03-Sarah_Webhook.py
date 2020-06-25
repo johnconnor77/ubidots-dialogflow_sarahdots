@@ -25,6 +25,9 @@ app = Flask(__name__)
 
 @app.route('/webhook', methods=['POST'])
 def webhook():
+    """
+            Function for parsing info that comes from dialogflow
+    """
     req = request.get_json(silent=True, force=True)
 
     print("Request:")
@@ -40,8 +43,10 @@ def webhook():
 
 
 def makeWebhookResult(req):
-
-
+    """
+        Function that realize the query based on device and variable labels
+    """
+    
     result = req.get('queryResult')
     parameters = result.get('parameters')
     device = parameters.get('Device')
