@@ -1,3 +1,9 @@
+'''
+This code demonstrates a session inside a dialogflow bot for parsing intents
+    Web Demo:
+    https://bot.dialogflow.com/3b6b0c55-7d58-4273-be17-12256f0dbc6c
+'''
+
 import requests
 import os
 import dialogflow
